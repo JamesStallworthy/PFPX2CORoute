@@ -1,0 +1,7 @@
+D:\james\Documents\GitHub\PFPX2CORoute\PFPX2CORoute\PFPX2CORoute\bin\Debug\PFPX2CORoute.exe.config
+D:\james\Documents\GitHub\PFPX2CORoute\PFPX2CORoute\PFPX2CORoute\bin\Debug\PFPX2CORoute.exe
+D:\james\Documents\GitHub\PFPX2CORoute\PFPX2CORoute\PFPX2CORoute\bin\Debug\PFPX2CORoute.pdb
+D:\james\Documents\GitHub\PFPX2CORoute\PFPX2CORoute\PFPX2CORoute\obj\Debug\PFPX2CORoute.csprojResolveAssemblyReference.cache
+D:\james\Documents\GitHub\PFPX2CORoute\PFPX2CORoute\PFPX2CORoute\obj\Debug\PFPX2CORoute.exe
+D:\james\Documents\GitHub\PFPX2CORoute\PFPX2CORoute\PFPX2CORoute\obj\Debug\PFPX2CORoute.pdb
+D:\james\Documents\GitHub\PFPX2CORoute\PFPX2CORoute\PFPX2CORoute\obj\Debug\PFPX2CORoute.csproj.CoreCompileInputs.cache
